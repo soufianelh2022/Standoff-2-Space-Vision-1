@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"title1 ser","desc":"Standoff 2 Space Vision emerges as a shining example of a futuristic evolution of the classic shooter genre","photo":"https://iili.io/HDDgCYv.webp"},
+  {"title":"title2 ser","desc":"Blending the beloved mechanics of its predecessor, Standoff 2, with a captivating space-themed twist, Space Vision offers players an immersive and thrilling gaming experience like no other.","photo":"https://iili.io/HDDgKEg.webp"},
+  {"title":"title3 ser","desc":"Space Vision transports players to a distant future where humanity has expanded its reach to the far corners of the cosmos","photo":"https://iili.io/HDDgKEg.webp"},
+  {"title":"title4 ser","desc":"Colonized planets, futuristic space stations, and interstellar battlefields become the backdrop for intense gunfights and strategic gameplay.","photo":"https://iili.io/HDDgB3J.webp"},
+  {"title":"title5 ser","desc":"The attention to detail in the game's environment design creates a seamless integration of classic shooter mechanics with a captivating sci-fi aesthetic.","photo":"https://iili.io/HDDgnvR.webp"},
+  {"title":"title6 ser","desc":"The game features an array of classic and innovative game modes, each tailored to provide a unique experience","photo":"https://iili.io/HDDgopp.webp"},
+  {"title":"title7 ser","desc":"Space Team Deathmatch: Engage in fast-paced team battles set amidst asteroid fields, orbital platforms, and zero-gravity environments.","photo":"https://iili.io/HDDgzTN.webp"},
+  {"title":"title8 ser","desc":"Galactic Domination: Compete for control of key strategic points across diverse planets in a conquest-style mode, blending elements of capture the flag and domination","photo":"https://iili.io/HDDgnvR.webp"}
    ]
  
 }
