@@ -19,32 +19,36 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
+"yandex_banner":"R-M-2713977-1",
+"yandex_inter":"R-M-2713977-3",
+"yandex_native":"R-M-2713977-2",
+"yandex_reward":"R-M-2713977-4",
 
 
 
 "start_vpn":"yes",
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"reward_network_choice":"admob",
-"native_network_choice":"admob"
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
   
   
 
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"Standoff 2 Space Vision emerges as a shining example of a futuristic evolution of the classic shooter genre","photo":"https://iili.io/HDDgCYv.webp"},
-  {"title":"title2 ser","desc":"Blending the beloved mechanics of its predecessor, Standoff 2, with a captivating space-themed twist, Space Vision offers players an immersive and thrilling gaming experience like no other.","photo":"https://iili.io/HDDgKEg.webp"},
-  {"title":"title3 ser","desc":"Space Vision transports players to a distant future where humanity has expanded its reach to the far corners of the cosmos","photo":"https://iili.io/HDDgKEg.webp"},
-  {"title":"title4 ser","desc":"Colonized planets, futuristic space stations, and interstellar battlefields become the backdrop for intense gunfights and strategic gameplay.","photo":"https://iili.io/HDDgB3J.webp"},
-  {"title":"title5 ser","desc":"The attention to detail in the game's environment design creates a seamless integration of classic shooter mechanics with a captivating sci-fi aesthetic.","photo":"https://iili.io/HDDgnvR.webp"},
-  {"title":"title6 ser","desc":"The game features an array of classic and innovative game modes, each tailored to provide a unique experience","photo":"https://iili.io/HDDgopp.webp"},
-  {"title":"title7 ser","desc":"Space Team Deathmatch: Engage in fast-paced team battles set amidst asteroid fields, orbital platforms, and zero-gravity environments.","photo":"https://iili.io/HDDgzTN.webp"},
-  {"title":"title8 ser","desc":"Galactic Domination: Compete for control of key strategic points across diverse planets in a conquest-style mode, blending elements of capture the flag and domination","photo":"https://iili.io/HDDgnvR.webp"}
+  {"title":"title1 ser","desc":"In Space Vision, players are equipped with cutting-edge spacesuits that grant them the ability to navigate and engage in combat in zero-gravity environments. This new dimension adds an entirely new layer of strategy and excitement to the gameplay, as players must master the art of three-dimensional movement while fending off adversaries and completing objectives.","photo":"https://iili.io/HyKvSQs.jpg"},
+  {"title":"title2 ser","desc":"The graphics in Standoff 2: Space Vision are nothing short of breathtaking. The intricate details of space stations, asteroid fields, and distant planets create a truly immersive experience, drawing players into the depths of the cosmos. The interplay of light and shadow, the glint of distant stars, and the vibrant hues of nebulae all contribute to the visual spectacle that is Space Vision.
+
+.","photo":"https://iili.io/HyKvrGf.jpg"},
+  {"title":"title3 ser","desc":"The expansion also introduces an array of advanced weaponry and gadgets tailored for space combat, offering players a diverse arsenal to choose from as they adapt to the challenges of battling in a zero-gravity environment. From specialized propulsion systems that allow for rapid movement to futuristic energy-based weapons that can pierce through the vacuum of space, players must carefully select their loadouts to ensure victory.","photo":"https://iili.io/HyKv444.jpg"},
+  {"title":"title4 ser","desc":"The gameplay modes in Space Vision seamlessly blend familiar Standoff 2 modes with space-specific challenges. Capture the Flag amidst asteroid fields, Team Deathmatch within abandoned space stations, and objective-based scenarios that involve hacking into distant satellites are just a few examples of the thrilling new missions that await.
+
+.","photo":"https://iili.io/HyKv8jn.jpg"},
+  {"title":"title5 ser","desc":"standoff 2: Space Vision is more than just an expansion; it's a cosmic evolution of the original game, reimagining the fast-paced action and competitive spirit in an environment that defies gravity and pushes the boundaries of virtual combat.","photo":"https://iili.io/HyKvia2.jpg"},
+  {"title":"title6 ser","desc":"Get ready to experience the next frontier of gaming as you embark on a journey through the stars, where every shot fired and every maneuver executed could mean the difference between triumph and defeat in the cold expanse of space.","photo":"https://iili.io/HyKvP3l.jpg"},
+  {"title":"title7 ser","desc":"Space Vision is an exhilarating and innovative addition to the popular first-person shooter game, Standoff 2. .","photo":"https://iili.io/HyK86og.jpg"},
+  {"title":"title8 ser","desc":"This expansion takes players on an electrifying journey beyond the traditional confines of the game, transporting them into a futuristic realm where intense combat scenarios unfold amidst the vast expanse of outer space.","photo":"https://iili.io/HyK8PVa.jpg"}
    ]
  
 }
